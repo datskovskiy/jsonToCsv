@@ -1,0 +1,17 @@
+{
+  "name": "jsontocsv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "nodemon": "^2.0.19",
+    "request": "^2.88.2"
+  }
+}
